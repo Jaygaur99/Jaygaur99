@@ -62,7 +62,7 @@
 
 
 [mail]: mailto:jaygaur99@gmail.com
-[linkedin]: www.linkedin.com/in/jaygaur99
+[linkedin]: https://www.linkedin.com/in/jaygaur99
 [hackerrank]: https://www.hackerrank.com/jaygaur99
 [facebook]: https://www.facebook.com/subham.jain.142035/
 [Python]: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
